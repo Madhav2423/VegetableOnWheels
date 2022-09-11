@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830447817949",
+    "project_id": "vow-main-b91bc",
+    "storage_bucket": "vow-main-b91bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830447817949:android:3783b8b7a6e2f1b6f1b734",
+        "android_client_info": {
+          "package_name": "com.madhav.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830447817949-knkkh8bqk9bvhu26dn0489nhhe752325.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZl9CgDq76R-tV3f3szQISYXh47MSsRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830447817949-knkkh8bqk9bvhu26dn0489nhhe752325.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
